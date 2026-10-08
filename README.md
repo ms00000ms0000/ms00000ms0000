@@ -2,7 +2,7 @@
 Computer Science graduate specializing in Data Science and Artificial Intelligence with hands-on experience in developing end-to-end AI, Machine Learning, and Generative AI solutions. Built enterprise-grade projects including an AI-powered Weather Intelligence Platform and a Hybrid Retrieval-Augmented Generation (RAG) system using Python, SQL, TensorFlow, Scikit-learn, LangChain, FAISS, BM25, Hugging Face, and Streamlit. Proficient in data analysis, predictive modeling, deep learning, data visualization, and SQL-based data management using Power BI and Tableau. Strong foundation in software engineering, model deployment, and production-ready AI workflows. Passionate about solving real-world business problems through data-driven and intelligent AI solutions. Seeking opportunities as an AI Engineer, Machine Learning Engineer, Data Scientist, Data Analyst, or Generative AI Engineer.
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://meetms.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://work.meetmayank.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ms8960)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ms0000ms0000)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:msrivastava194@gmail.com)
