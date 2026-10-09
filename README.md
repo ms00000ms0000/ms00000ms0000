@@ -1,5 +1,13 @@
 # 💫 About Me:
-Computer Science graduate specializing in Data Science and Artificial Intelligence with hands-on experience in developing end-to-end AI, Machine Learning, and Generative AI solutions. Built enterprise-grade projects including an AI-powered Weather Intelligence Platform and a Hybrid Retrieval-Augmented Generation (RAG) system using Python, SQL, TensorFlow, Scikit-learn, LangChain, FAISS, BM25, Hugging Face, and Streamlit. Proficient in data analysis, predictive modeling, deep learning, data visualization, and SQL-based data management using Power BI and Tableau. Strong foundation in software engineering, model deployment, and production-ready AI workflows. Passionate about solving real-world business problems through data-driven and intelligent AI solutions. Seeking opportunities as an AI Engineer, Machine Learning Engineer, Data Scientist, Data Analyst, or Generative AI Engineer.
+Computer Science graduate specializing in Data Science and Artificial Intelligence with hands-on experience building end-to-end AI, Machine Learning, and Generative AI solutions.
+
+Built projects including HyperRAG, a multi-document Retrieval-Augmented Generation (RAG) assistant using hybrid retrieval (FAISS + BM25), Reciprocal Rank Fusion, cross-encoder reranking, and the Gemini API; AtmosIQ, an AI-powered Weather Intelligence Platform (81.3% test accuracy, 5-fold Stratified Cross-Validation) deployed 24x7 on a self-managed Linux VPS; ClinicFlow, an n8n automation that delivers a clinic's daily patient list to Telegram; and a Power BI E-Commerce Revenue Dashboard analyzing INR 2.17 billion in revenue.
+
+Core skills: Python, SQL, Scikit-learn, TensorFlow, FAISS, n8n, Streamlit, Power BI, and Tableau, with a strong foundation in Data Structures and Algorithms, predictive modeling, deep learning, data visualization, and model deployment.
+
+Passionate about solving real-world business problems through data-driven and intelligent AI solutions.
+
+Seeking opportunities as an AI Engineer, Generative AI Engineer, Machine Learning Engineer, Data Scientist, Data Analyst, or Software Engineer (SDE).
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://work.meetmayank.com/)
