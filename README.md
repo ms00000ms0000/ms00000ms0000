@@ -30,9 +30,9 @@ Computer Science graduate (B.Tech, Data Science) with hands-on experience buildi
 
 | Project | What it does | Highlights |
 | --- | --- | --- |
-| **HyperRAG** | Multi-document RAG assistant for enterprise-style Q&A | Hybrid retrieval (FAISS + BM25), Reciprocal Rank Fusion, cross-encoder reranking, Gemini API |
-| **AtmosIQ** | AI-powered weather intelligence platform | 81.3% test accuracy, 5-fold stratified cross-validation, deployed 24x7 on a self-managed Linux VPS |
-| **ClinicFlow** | n8n automation for clinics | Sends the day's patient list to Telegram every morning, pulled from Google Form/Sheet |
+| [**HyperRAG**](https://github.com/ms00000ms0000/HyperRAG) | Multi-document RAG assistant for enterprise-style Q&A | Hybrid retrieval (FAISS + BM25), Reciprocal Rank Fusion, cross-encoder reranking, Gemini API |
+| [**AtmosIQ**](https://github.com/ms00000ms0000/AtmosIQ) | AI-powered weather intelligence platform | 81.3% test accuracy, 5-fold stratified cross-validation, deployed 24x7 on a self-managed Linux VPS |
+| [**ClinicFlow**](https://github.com/ms00000ms0000/clinic-flow) | n8n automation for clinics | Sends the day's patient list to Telegram every morning, pulled from Google Form/Sheet |
 | [**Indian E-Commerce Revenue Dashboard**](https://github.com/ms00000ms0000/Ecommerce-Revenue-BI) | Power BI dashboard on discount impact, festival sales, demographics, and inventory pressure | 970K+ units, ₹2.17B revenue analyzed, DAX + Power Query ETL |
 | [**UrbanCart Business Performance Analysis**](https://github.com/ms00000ms0000/PowerBI-UrbanCart-Business-Performance-Analysis) | Retail sales and profitability analysis in Power BI | 9,994 transactions, found loss-making Furniture sub-categories and discount-driven margin loss in the Central region |
 | [**Emotion Detection System**](https://github.com/ms00000ms0000/DL_Project_Emotion_Detection_System_Using_MobileNetV2_Transfer_Learning) | Facial emotion classifier | MobileNetV2 transfer learning, TensorFlow/Keras, 6 emotion classes |
