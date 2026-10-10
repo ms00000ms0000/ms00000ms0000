@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mayank Srivastava 👋</h1>
 
-<h3 align="center">AI / ML Engineer · Data Scientist · Data Analyst</h3>
+<h3 align="center">Aspiring AI / ML Engineer · Data Scientist · Data Analyst</h3>
 
 <p align="center">
   I build end-to-end AI, GenAI, and analytics solutions, from raw data to deployed products.
